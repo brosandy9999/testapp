@@ -52255,14 +52255,13 @@ s=1
 break
 case 1:return A.u(q,r)}})
 return A.v($async$gdK,r)},
-Do(){var s=0,r=A.w(t.Bk),q,p=this,o,n
+Do(){var s=0,r=A.w(t.Bk),q,p=this,o
 var $async$Do=A.x(function(a,b){if(a===1)return A.t(b,r)
-for(;;)switch(s){case 0:n=$.bdd()
+for(;;)switch(s){case 0:o=$.bdd()
 if($.aZe!=null)A.ls("*** sqflite warning ***\n\nYou are changing sqflite default factory.\nBe aware of the potential side effects. Any library using sqflite\nwill have this factory as the default for all operations.\n\n*** sqflite warning ***\n")
-$.aZe=n
-o=A.b4v(null,p.gas_(),null,null,null,!1,null,!0,1)
+$.aZe=o
 s=3
-return A.m(A.br_().HL("eps_topik_master.db",o),$async$Do)
+return A.m(A.br_().HL("eps_topik_master.db",A.b4v(null,p.gas_(),null,null,null,!1,null,!0,1)),$async$Do)
 case 3:q=b
 s=1
 break
